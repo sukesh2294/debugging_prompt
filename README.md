@@ -6,10 +6,10 @@
      - **Task 3** 
 - ## How to Run 1. Clone this repository - git clone
 
-- [https://github.com/sukesh2294/fossee-screening-task-IIT-Bombay.git](https://github.com/sukesh2294/Fossee-screening-task-IIT-Bombay-/blob/main/README.md)
+- https://github.com/sukesh2294/workshop_booking-master
 
 
-**Task 1**
+# **Task 1**
 
 # debugging_prompt
 
