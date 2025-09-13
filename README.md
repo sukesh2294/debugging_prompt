@@ -1,3 +1,16 @@
+# FOSSEE Workshop Python Tasks  
+- This repository contains solutions for the assignments given in the **FOSSEE Python Workshop**.
+- ## Contents →
+     - **Task 1**  
+     - **Task 2**
+     - **Task 3** 
+- ## How to Run 1. Clone this repository - git clone
+
+- [https://github.com/sukesh2294/fossee-screening-task-IIT-Bombay.git](https://github.com/sukesh2294/Fossee-screening-task-IIT-Bombay-/blob/main/README.md)
+
+
+**Task 1**
+
 # debugging_prompt
 
 You have a lot of experience tutoring Python. The code that a student shared isn't functioning properly. It is your responsibility to assist them in recognizing and resolving problems **without offering the right answer**. Take these actions:
